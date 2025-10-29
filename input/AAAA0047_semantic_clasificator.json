@@ -1,0 +1,322 @@
+{
+    "poly_0000": {
+        "text": "PAPELERIA",
+        "semantic_clasification": 0
+    },
+    "poly_0001": {
+        "text": "EL",
+        "semantic_clasification": 0
+    },
+    "poly_0002": {
+        "text": "ESTUDIANTE",
+        "semantic_clasification": 0
+    },
+    "poly_0003": {
+        "text": "FEDERICO GOMEZ6 ZUMPA  EDO MEX CP55600",
+        "semantic_clasification": 0
+    },
+    "poly_0004": {
+        "text": "JOSE MENDEZ DAVILA R.F.SMEDJ630711HU5",
+        "semantic_clasification": 0
+    },
+    "poly_0005": {
+        "text": "REGIMEN SIMPLIFICADO DE CONFIANZA",
+        "semantic_clasification": 0
+    },
+    "poly_0006": {
+        "text": "SU SOLUCION EN PAPELERIA DE MAYOREO",
+        "semantic_clasification": 0
+    },
+    "poly_0007": {
+        "text": "22052024",
+        "semantic_clasification": 1
+    },
+    "poly_0008": {
+        "text": "1026",
+        "semantic_clasification": 1
+    },
+    "poly_0009": {
+        "text": "AM",
+        "semantic_clasification": 0
+    },
+    "poly_0010": {
+        "text": "NOTAS",
+        "semantic_clasification": 0
+    },
+    "poly_0011": {
+        "text": "DE",
+        "semantic_clasification": 0
+    },
+    "poly_0012": {
+        "text": "VENTA",
+        "semantic_clasification": 0
+    },
+    "poly_0013": {
+        "text": "A1251",
+        "semantic_clasification": 0
+    },
+    "poly_0014": {
+        "text": "MZ",
+        "semantic_clasification": 0
+    },
+    "poly_0015": {
+        "text": "CAJERO",
+        "semantic_clasification": 0
+    },
+    "poly_0016": {
+        "text": "2790",
+        "semantic_clasification": 1
+    },
+    "poly_0017": {
+        "text": "TICKET",
+        "semantic_clasification": 0
+    },
+    "poly_0018": {
+        "text": "NO",
+        "semantic_clasification": 0
+    },
+    "poly_0019": {
+        "text": "PRECIO",
+        "semantic_clasification": 0
+    },
+    "poly_0020": {
+        "text": "IMPORTE",
+        "semantic_clasification": 0
+    },
+    "poly_0021": {
+        "text": "CANT.",
+        "semantic_clasification": 0
+    },
+    "poly_0022": {
+        "text": "DESCRIPCION",
+        "semantic_clasification": 0
+    },
+    "poly_0023": {
+        "text": "$110.90",
+        "semantic_clasification": 2
+    },
+    "poly_0024": {
+        "text": "$110.90",
+        "semantic_clasification": 2
+    },
+    "poly_0025": {
+        "text": "HOJA",
+        "semantic_clasification": 0
+    },
+    "poly_0026": {
+        "text": "BCA",
+        "semantic_clasification": 0
+    },
+    "poly_0027": {
+        "text": "OF",
+        "semantic_clasification": 0
+    },
+    "poly_0028": {
+        "text": "C500",
+        "semantic_clasification": 0
+    },
+    "poly_0029": {
+        "text": "1",
+        "semantic_clasification": 1
+    },
+    "poly_0030": {
+        "text": "$116.22",
+        "semantic_clasification": 2
+    },
+    "poly_0031": {
+        "text": "$19.37",
+        "semantic_clasification": 2
+    },
+    "poly_0032": {
+        "text": "PROF",
+        "semantic_clasification": 0
+    },
+    "poly_0033": {
+        "text": "EC",
+        "semantic_clasification": 0
+    },
+    "poly_0034": {
+        "text": "100H",
+        "semantic_clasification": 0
+    },
+    "poly_0035": {
+        "text": "BCO",
+        "semantic_clasification": 0
+    },
+    "poly_0036": {
+        "text": "6",
+        "semantic_clasification": 1
+    },
+    "poly_0037": {
+        "text": "$55.50",
+        "semantic_clasification": 2
+    },
+    "poly_0038": {
+        "text": "$55.50",
+        "semantic_clasification": 2
+    },
+    "poly_0039": {
+        "text": "CART",
+        "semantic_clasification": 0
+    },
+    "poly_0040": {
+        "text": "BRISTOL",
+        "semantic_clasification": 0
+    },
+    "poly_0041": {
+        "text": "BCA",
+        "semantic_clasification": 0
+    },
+    "poly_0042": {
+        "text": "C25",
+        "semantic_clasification": 0
+    },
+    "poly_0043": {
+        "text": "1",
+        "semantic_clasification": 1
+    },
+    "poly_0044": {
+        "text": "$103.20",
+        "semantic_clasification": 2
+    },
+    "poly_0045": {
+        "text": "$17.20",
+        "semantic_clasification": 2
+    },
+    "poly_0046": {
+        "text": "SILICON",
+        "semantic_clasification": 0
+    },
+    "poly_0047": {
+        "text": "LIQ",
+        "semantic_clasification": 0
+    },
+    "poly_0048": {
+        "text": "60ML",
+        "semantic_clasification": -1
+    },
+    "poly_0049": {
+        "text": "6",
+        "semantic_clasification": 1
+    },
+    "poly_0050": {
+        "text": "$58.74",
+        "semantic_clasification": 2
+    },
+    "poly_0051": {
+        "text": "$9.79",
+        "semantic_clasification": 2
+    },
+    "poly_0052": {
+        "text": "SILICON",
+        "semantic_clasification": 0
+    },
+    "poly_0053": {
+        "text": "LIQ",
+        "semantic_clasification": 0
+    },
+    "poly_0054": {
+        "text": "30ML",
+        "semantic_clasification": -1
+    },
+    "poly_0055": {
+        "text": "6",
+        "semantic_clasification": 1
+    },
+    "poly_0056": {
+        "text": "MICA ADHERIBLE TRF 50X6 $139.00 $139.00",
+        "semantic_clasification": -1
+    },
+    "poly_0057": {
+        "text": "5",
+        "semantic_clasification": 1
+    },
+    "poly_0058": {
+        "text": "C10",
+        "semantic_clasification": 0
+    },
+    "poly_0059": {
+        "text": "$83.76",
+        "semantic_clasification": 2
+    },
+    "poly_0060": {
+        "text": "$13.96",
+        "semantic_clasification": 2
+    },
+    "poly_0061": {
+        "text": "CORRECTOR",
+        "semantic_clasification": 0
+    },
+    "poly_0062": {
+        "text": "LIQ",
+        "semantic_clasification": 0
+    },
+    "poly_0063": {
+        "text": "AQUA",
+        "semantic_clasification": 0
+    },
+    "poly_0064": {
+        "text": "KORE",
+        "semantic_clasification": 0
+    },
+    "poly_0065": {
+        "text": "6",
+        "semantic_clasification": 1
+    },
+    "poly_0066": {
+        "text": "s",
+        "semantic_clasification": 0
+    },
+    "poly_0067": {
+        "text": "NO.",
+        "semantic_clasification": 0
+    },
+    "poly_0068": {
+        "text": "DE",
+        "semantic_clasification": 0
+    },
+    "poly_0069": {
+        "text": "ARTICULOS",
+        "semantic_clasification": 0
+    },
+    "poly_0070": {
+        "text": "27",
+        "semantic_clasification": 1
+    },
+    "poly_0071": {
+        "text": "TOTAL $667.32",
+        "semantic_clasification": 2
+    },
+    "poly_0072": {
+        "text": "PAGO CON $667.32",
+        "semantic_clasification": 2
+    },
+    "poly_0073": {
+        "text": "SU",
+        "semantic_clasification": 0
+    },
+    "poly_0074": {
+        "text": "CAMBIO",
+        "semantic_clasification": 0
+    },
+    "poly_0075": {
+        "text": "$0.00",
+        "semantic_clasification": 1
+    },
+    "poly_0076": {
+        "text": "USTED AHORRO $235.68",
+        "semantic_clasification": 2
+    },
+    "poly_0077": {
+        "text": "AAD",
+        "semantic_clasification": 0
+    },
+    "poly_0078": {
+        "text": "R",
+        "semantic_clasification": 0
+    },
+    "poly_0079": {
+        "text": "0",
+        "semantic_clasification": 1
+    }
+}

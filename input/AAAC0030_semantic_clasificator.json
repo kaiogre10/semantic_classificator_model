@@ -1,0 +1,90 @@
+{
+    "poly_0000": {
+        "text": "107022024 0113 PM",
+        "semantic_clasification": 1
+    },
+    "poly_0001": {
+        "text": "AMEZCUA",
+        "semantic_clasification": 0
+    },
+    "poly_0002": {
+        "text": "CAJERO",
+        "semantic_clasification": 0
+    },
+    "poly_0003": {
+        "text": "TURNO",
+        "semantic_clasification": 0
+    },
+    "poly_0004": {
+        "text": "#",
+        "semantic_clasification": 0
+    },
+    "poly_0005": {
+        "text": "62.35",
+        "semantic_clasification": 2
+    },
+    "poly_0006": {
+        "text": "FOL10",
+        "semantic_clasification": 0
+    },
+    "poly_0007": {
+        "text": "105648",
+        "semantic_clasification": 1
+    },
+    "poly_0008": {
+        "text": "CANT",
+        "semantic_clasification": 0
+    },
+    "poly_0009": {
+        "text": "DESCRLPCIOA",
+        "semantic_clasification": 0
+    },
+    "poly_0010": {
+        "text": "PRECiO",
+        "semantic_clasification": 0
+    },
+    "poly_0011": {
+        "text": "1MPORTE",
+        "semantic_clasification": 0
+    },
+    "poly_0012": {
+        "text": "GRAPA MARVFLC500 $26.50 $79.50",
+        "semantic_clasification": 2
+    },
+    "poly_0013": {
+        "text": "0",
+        "semantic_clasification": 1
+    },
+    "poly_0014": {
+        "text": "NO",
+        "semantic_clasification": 0
+    },
+    "poly_0015": {
+        "text": "DE",
+        "semantic_clasification": 0
+    },
+    "poly_0016": {
+        "text": "ARTICULOS",
+        "semantic_clasification": 0
+    },
+    "poly_0017": {
+        "text": "3",
+        "semantic_clasification": 1
+    },
+    "poly_0018": {
+        "text": "T0TAL $79.50",
+        "semantic_clasification": 2
+    },
+    "poly_0019": {
+        "text": "PAGD CON $79.50",
+        "semantic_clasification": 2
+    },
+    "poly_0020": {
+        "text": "SU",
+        "semantic_clasification": 0
+    },
+    "poly_0021": {
+        "text": "CAMBIO$0.00",
+        "semantic_clasification": -1
+    }
+}

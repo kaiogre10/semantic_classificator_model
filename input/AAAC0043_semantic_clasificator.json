@@ -1,0 +1,302 @@
+{
+    "poly_0000": {
+        "text": "10112022 1243 PM",
+        "semantic_clasification": 1
+    },
+    "poly_0001": {
+        "text": "CAJERO",
+        "semantic_clasification": 0
+    },
+    "poly_0002": {
+        "text": "RAZIFl",
+        "semantic_clasification": 0
+    },
+    "poly_0003": {
+        "text": "JAFET",
+        "semantic_clasification": 0
+    },
+    "poly_0004": {
+        "text": "TURNO",
+        "semantic_clasification": 0
+    },
+    "poly_0005": {
+        "text": "#",
+        "semantic_clasification": 0
+    },
+    "poly_0006": {
+        "text": "4425",
+        "semantic_clasification": 1
+    },
+    "poly_0007": {
+        "text": "61688",
+        "semantic_clasification": 1
+    },
+    "poly_0008": {
+        "text": "FOLIO",
+        "semantic_clasification": 0
+    },
+    "poly_0009": {
+        "text": "CANTDESCRIPCION",
+        "semantic_clasification": 0
+    },
+    "poly_0010": {
+        "text": "PRECIO",
+        "semantic_clasification": 0
+    },
+    "poly_0011": {
+        "text": "IMPORTE",
+        "semantic_clasification": 0
+    },
+    "poly_0012": {
+        "text": "6 Gl$ BLANCO C12B $10.00 $60.00",
+        "semantic_clasification": -1
+    },
+    "poly_0013": {
+        "text": "ACO",
+        "semantic_clasification": 0
+    },
+    "poly_0014": {
+        "text": "6 GIS COLOR C12BA $11.0O $66.0O",
+        "semantic_clasification": -1
+    },
+    "poly_0015": {
+        "text": "CINTA",
+        "semantic_clasification": 0
+    },
+    "poly_0016": {
+        "text": "METRICA",
+        "semantic_clasification": 0
+    },
+    "poly_0017": {
+        "text": "C1",
+        "semantic_clasification": -1
+    },
+    "poly_0018": {
+        "text": "$45.00",
+        "semantic_clasification": 1
+    },
+    "poly_0019": {
+        "text": "$45.00",
+        "semantic_clasification": 1
+    },
+    "poly_0020": {
+        "text": "2",
+        "semantic_clasification": 1
+    },
+    "poly_0021": {
+        "text": "$22.00",
+        "semantic_clasification": 1
+    },
+    "poly_0022": {
+        "text": "2 LIMPIAPIPAS MATE",
+        "semantic_clasification": 0
+    },
+    "poly_0023": {
+        "text": "344.00",
+        "semantic_clasification": 1
+    },
+    "poly_0024": {
+        "text": "NEGRO",
+        "semantic_clasification": 0
+    },
+    "poly_0025": {
+        "text": "6",
+        "semantic_clasification": 1
+    },
+    "poly_0026": {
+        "text": "ILUSTRACION",
+        "semantic_clasification": 0
+    },
+    "poly_0027": {
+        "text": "14",
+        "semantic_clasification": 1
+    },
+    "poly_0028": {
+        "text": "$10.00 $60.00",
+        "semantic_clasification": 1
+    },
+    "poly_0029": {
+        "text": "10 ILUSTRACION 18 $5.00 $5O.0O",
+        "semantic_clasification": -1
+    },
+    "poly_0030": {
+        "text": "1 SUJETA DOCUMENTOS $37.50 $37.50",
+        "semantic_clasification": 2
+    },
+    "poly_0031": {
+        "text": "41MM",
+        "semantic_clasification": -1
+    },
+    "poly_0032": {
+        "text": "1",
+        "semantic_clasification": 1
+    },
+    "poly_0033": {
+        "text": "LAPIZ",
+        "semantic_clasification": 0
+    },
+    "poly_0034": {
+        "text": "DUO",
+        "semantic_clasification": 0
+    },
+    "poly_0035": {
+        "text": "CUATlTO",
+        "semantic_clasification": 0
+    },
+    "poly_0036": {
+        "text": "$37.00",
+        "semantic_clasification": 1
+    },
+    "poly_0037": {
+        "text": "s",
+        "semantic_clasification": 0
+    },
+    "poly_0038": {
+        "text": "$37.00",
+        "semantic_clasification": 1
+    },
+    "poly_0039": {
+        "text": "S",
+        "semantic_clasification": 0
+    },
+    "poly_0040": {
+        "text": "C102",
+        "semantic_clasification": 0
+    },
+    "poly_0041": {
+        "text": "10 CARTULINA PASTEL",
+        "semantic_clasification": 0
+    },
+    "poly_0042": {
+        "text": "$3.509",
+        "semantic_clasification": 2
+    },
+    "poly_0043": {
+        "text": "$35.00",
+        "semantic_clasification": 1
+    },
+    "poly_0044": {
+        "text": "AMARILLA",
+        "semantic_clasification": 0
+    },
+    "poly_0045": {
+        "text": "1O",
+        "semantic_clasification": -1
+    },
+    "poly_0046": {
+        "text": "CARTULINA",
+        "semantic_clasification": 0
+    },
+    "poly_0047": {
+        "text": "PASTEL",
+        "semantic_clasification": 0
+    },
+    "poly_0048": {
+        "text": "$3.50 $35.00",
+        "semantic_clasification": 2
+    },
+    "poly_0049": {
+        "text": "AZUL",
+        "semantic_clasification": 0
+    },
+    "poly_0050": {
+        "text": "$35.00",
+        "semantic_clasification": 1
+    },
+    "poly_0051": {
+        "text": "1O",
+        "semantic_clasification": -1
+    },
+    "poly_0052": {
+        "text": "CARTULINA",
+        "semantic_clasification": 0
+    },
+    "poly_0053": {
+        "text": "PASTEL",
+        "semantic_clasification": 0
+    },
+    "poly_0054": {
+        "text": "$3.50",
+        "semantic_clasification": 2
+    },
+    "poly_0055": {
+        "text": "ROSA",
+        "semantic_clasification": 0
+    },
+    "poly_0056": {
+        "text": "$49.00",
+        "semantic_clasification": 1
+    },
+    "poly_0057": {
+        "text": "1O",
+        "semantic_clasification": -1
+    },
+    "poly_0058": {
+        "text": "CARTULINA",
+        "semantic_clasification": 0
+    },
+    "poly_0059": {
+        "text": "NEOM",
+        "semantic_clasification": 0
+    },
+    "poly_0060": {
+        "text": "R",
+        "semantic_clasification": 0
+    },
+    "poly_0061": {
+        "text": "$4.90",
+        "semantic_clasification": 2
+    },
+    "poly_0062": {
+        "text": "OSA",
+        "semantic_clasification": 0
+    },
+    "poly_0063": {
+        "text": "GRAFICOLOR",
+        "semantic_clasification": 0
+    },
+    "poly_0064": {
+        "text": "$3.50 $35.00",
+        "semantic_clasification": 2
+    },
+    "poly_0065": {
+        "text": "1O CARTONCILLO NEGR",
+        "semantic_clasification": 0
+    },
+    "poly_0066": {
+        "text": "NO",
+        "semantic_clasification": 0
+    },
+    "poly_0067": {
+        "text": "DE",
+        "semantic_clasification": 0
+    },
+    "poly_0068": {
+        "text": "ARTICULOS",
+        "semantic_clasification": 0
+    },
+    "poly_0069": {
+        "text": "83",
+        "semantic_clasification": 1
+    },
+    "poly_0070": {
+        "text": "T0TAL $588.50",
+        "semantic_clasification": 2
+    },
+    "poly_0071": {
+        "text": "PAGQ",
+        "semantic_clasification": 0
+    },
+    "poly_0072": {
+        "text": "CON",
+        "semantic_clasification": 0
+    },
+    "poly_0073": {
+        "text": "$600.00",
+        "semantic_clasification": 1
+    },
+    "poly_0074": {
+        "text": "sU CAMBlO$11.$0",
+        "semantic_clasification": 2
+    }
+}

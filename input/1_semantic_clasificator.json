@@ -1,0 +1,938 @@
+{
+    "poly_0000": {
+        "text": "HoJa1",
+        "semantic_clasification": 0
+    },
+    "poly_0001": {
+        "text": "LISTADE PERSONAS AFECTADAS POR PEMEX",
+        "semantic_clasification": 0
+    },
+    "poly_0002": {
+        "text": "IMPORTE",
+        "semantic_clasification": 0
+    },
+    "poly_0003": {
+        "text": "A",
+        "semantic_clasification": 0
+    },
+    "poly_0004": {
+        "text": "PAGAR",
+        "semantic_clasification": 0
+    },
+    "poly_0005": {
+        "text": "POR.",
+        "semantic_clasification": 0
+    },
+    "poly_0006": {
+        "text": "IMPORTE",
+        "semantic_clasification": 0
+    },
+    "poly_0007": {
+        "text": "SUPERFICIE",
+        "semantic_clasification": 0
+    },
+    "poly_0008": {
+        "text": "NOMDRE",
+        "semantic_clasification": 0
+    },
+    "poly_0009": {
+        "text": "DEL",
+        "semantic_clasification": 0
+    },
+    "poly_0010": {
+        "text": "AFECTADO.",
+        "semantic_clasification": 0
+    },
+    "poly_0011": {
+        "text": "PERSONA",
+        "semantic_clasification": 0
+    },
+    "poly_0012": {
+        "text": "por",
+        "semantic_clasification": 0
+    },
+    "poly_0013": {
+        "text": "m2",
+        "semantic_clasification": -1
+    },
+    "poly_0014": {
+        "text": "$2.809.87",
+        "semantic_clasification": 2
+    },
+    "poly_0015": {
+        "text": "$3.6730384.",
+        "semantic_clasification": 2
+    },
+    "poly_0016": {
+        "text": "765.00 X",
+        "semantic_clasification": 1
+    },
+    "poly_0017": {
+        "text": "MARIA",
+        "semantic_clasification": 0
+    },
+    "poly_0018": {
+        "text": "VIGUERAS",
+        "semantic_clasification": 0
+    },
+    "poly_0019": {
+        "text": "CHAVEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0020": {
+        "text": "H",
+        "semantic_clasification": 0
+    },
+    "poly_0021": {
+        "text": "$2.010.99",
+        "semantic_clasification": 2
+    },
+    "poly_0022": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0023": {
+        "text": "547.50X",
+        "semantic_clasification": 2
+    },
+    "poly_0024": {
+        "text": "ERNESTINA",
+        "semantic_clasification": 0
+    },
+    "poly_0025": {
+        "text": "GODINEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0026": {
+        "text": "TREJO",
+        "semantic_clasification": 0
+    },
+    "poly_0027": {
+        "text": "$2.561.94",
+        "semantic_clasification": 2
+    },
+    "poly_0028": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0029": {
+        "text": "697.50",
+        "semantic_clasification": 2
+    },
+    "poly_0030": {
+        "text": "IRMAGODINEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0031": {
+        "text": "ALANIS",
+        "semantic_clasification": 0
+    },
+    "poly_0032": {
+        "text": "$977.95",
+        "semantic_clasification": 2
+    },
+    "poly_0033": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0034": {
+        "text": "266.25",
+        "semantic_clasification": 2
+    },
+    "poly_0035": {
+        "text": "JULIABAUTISTA",
+        "semantic_clasification": 0
+    },
+    "poly_0036": {
+        "text": "FIGUEROA",
+        "semantic_clasification": 0
+    },
+    "poly_0037": {
+        "text": "$2,991.69",
+        "semantic_clasification": 2
+    },
+    "poly_0038": {
+        "text": "$3.6730384 ",
+        "semantic_clasification": 2
+    },
+    "poly_0039": {
+        "text": "814.50X",
+        "semantic_clasification": 2
+    },
+    "poly_0040": {
+        "text": "GENOVEVA",
+        "semantic_clasification": 0
+    },
+    "poly_0041": {
+        "text": "DE",
+        "semantic_clasification": 0
+    },
+    "poly_0042": {
+        "text": "LA",
+        "semantic_clasification": 0
+    },
+    "poly_0043": {
+        "text": "CRUZ",
+        "semantic_clasification": 0
+    },
+    "poly_0044": {
+        "text": "jIIMENEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0045": {
+        "text": "$3,487.55",
+        "semantic_clasification": 2
+    },
+    "poly_0046": {
+        "text": ".$3.0730384 ",
+        "semantic_clasification": 2
+    },
+    "poly_0047": {
+        "text": "948.50X 1.",
+        "semantic_clasification": 2
+    },
+    "poly_0048": {
+        "text": "LEOCADIA",
+        "semantic_clasification": 0
+    },
+    "poly_0049": {
+        "text": "HERNANDEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0050": {
+        "text": "GARCIAT",
+        "semantic_clasification": 0
+    },
+    "poly_0051": {
+        "text": "$2,853.95",
+        "semantic_clasification": 2
+    },
+    "poly_0052": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0053": {
+        "text": "777.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0054": {
+        "text": "i",
+        "semantic_clasification": 0
+    },
+    "poly_0055": {
+        "text": "JOSE",
+        "semantic_clasification": 0
+    },
+    "poly_0056": {
+        "text": "LUiS",
+        "semantic_clasification": 0
+    },
+    "poly_0057": {
+        "text": "JIMENEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0058": {
+        "text": "RODRIGUEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0059": {
+        "text": "$6,170.70",
+        "semantic_clasification": 2
+    },
+    "poly_0060": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0061": {
+        "text": "1.680.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0062": {
+        "text": "RICARDA",
+        "semantic_clasification": 0
+    },
+    "poly_0063": {
+        "text": "CRUZ",
+        "semantic_clasification": 0
+    },
+    "poly_0064": {
+        "text": "VIGUERAS",
+        "semantic_clasification": 0
+    },
+    "poly_0065": {
+        "text": "Ek",
+        "semantic_clasification": 0
+    },
+    "poly_0066": {
+        "text": "$3.005.35",
+        "semantic_clasification": 2
+    },
+    "poly_0067": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0068": {
+        "text": "840.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0069": {
+        "text": "LEONOR",
+        "semantic_clasification": 0
+    },
+    "poly_0070": {
+        "text": "FLORES",
+        "semantic_clasification": 0
+    },
+    "poly_0071": {
+        "text": "LOPEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0072": {
+        "text": "$6,170.70",
+        "semantic_clasification": 2
+    },
+    "poly_0073": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0074": {
+        "text": "1.680.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0075": {
+        "text": "ESTHER",
+        "semantic_clasification": 0
+    },
+    "poly_0076": {
+        "text": "FLORES",
+        "semantic_clasification": 0
+    },
+    "poly_0077": {
+        "text": "RODRIGUEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0078": {
+        "text": "$332.04",
+        "semantic_clasification": 2
+    },
+    "poly_0079": {
+        "text": "$3.6730384.",
+        "semantic_clasification": 2
+    },
+    "poly_0080": {
+        "text": "90.40X",
+        "semantic_clasification": 2
+    },
+    "poly_0081": {
+        "text": "IRENE",
+        "semantic_clasification": 0
+    },
+    "poly_0082": {
+        "text": "JULIA",
+        "semantic_clasification": 0
+    },
+    "poly_0083": {
+        "text": "RODRIGUEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0084": {
+        "text": "MEJIA",
+        "semantic_clasification": 0
+    },
+    "poly_0085": {
+        "text": "$3,057.80",
+        "semantic_clasification": 2
+    },
+    "poly_0086": {
+        "text": "$3.6730384 ",
+        "semantic_clasification": 2
+    },
+    "poly_0087": {
+        "text": "832.50X",
+        "semantic_clasification": 2
+    },
+    "poly_0088": {
+        "text": "ENRIQUE",
+        "semantic_clasification": 0
+    },
+    "poly_0089": {
+        "text": "VENEGAS",
+        "semantic_clasification": 0
+    },
+    "poly_0090": {
+        "text": "GODINEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0091": {
+        "text": "$3.250.64",
+        "semantic_clasification": 2
+    },
+    "poly_0092": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0093": {
+        "text": "885.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0094": {
+        "text": "BERNARDINO",
+        "semantic_clasification": 0
+    },
+    "poly_0095": {
+        "text": "GODINEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0096": {
+        "text": "PEREZ#",
+        "semantic_clasification": 0
+    },
+    "poly_0097": {
+        "text": "$5.509.56",
+        "semantic_clasification": 2
+    },
+    "poly_0098": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0099": {
+        "text": "1.500.00",
+        "semantic_clasification": 1
+    },
+    "poly_0100": {
+        "text": "BERNABE",
+        "semantic_clasification": 0
+    },
+    "poly_0101": {
+        "text": "LOPEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0102": {
+        "text": "GONZALEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0103": {
+        "text": "$5,983.38",
+        "semantic_clasification": 2
+    },
+    "poly_0104": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0105": {
+        "text": "1,629.00.X",
+        "semantic_clasification": 1
+    },
+    "poly_0106": {
+        "text": "GERONIMO",
+        "semantic_clasification": 0
+    },
+    "poly_0107": {
+        "text": "GONZALEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0108": {
+        "text": "JIMENEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0109": {
+        "text": "$3.250.64",
+        "semantic_clasification": 2
+    },
+    "poly_0110": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0111": {
+        "text": "885.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0112": {
+        "text": "BENITO",
+        "semantic_clasification": 0
+    },
+    "poly_0113": {
+        "text": "VENEGAS",
+        "semantic_clasification": 0
+    },
+    "poly_0114": {
+        "text": "GODINEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0115": {
+        "text": "$5,509.56",
+        "semantic_clasification": 2
+    },
+    "poly_0116": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0117": {
+        "text": "1.500.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0118": {
+        "text": "ERNESTO",
+        "semantic_clasification": 0
+    },
+    "poly_0119": {
+        "text": "MONTAMIO",
+        "semantic_clasification": 0
+    },
+    "poly_0120": {
+        "text": "RODRIGUEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0121": {
+        "text": "#",
+        "semantic_clasification": 0
+    },
+    "poly_0122": {
+        "text": "33,195.54",
+        "semantic_clasification": 2
+    },
+    "poly_0123": {
+        "text": "$3.6730384.",
+        "semantic_clasification": 2
+    },
+    "poly_0124": {
+        "text": "870.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0125": {
+        "text": "FRANCISCO RODRIGUEZ BARRERA",
+        "semantic_clasification": 0
+    },
+    "poly_0126": {
+        "text": "$3.206.50",
+        "semantic_clasification": 2
+    },
+    "poly_0127": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0128": {
+        "text": "873.00",
+        "semantic_clasification": 1
+    },
+    "poly_0129": {
+        "text": "LEON CERVANTES RODRIGUEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0130": {
+        "text": "$3.250.64",
+        "semantic_clasification": 2
+    },
+    "poly_0131": {
+        "text": "885.00",
+        "semantic_clasification": 1
+    },
+    "poly_0132": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0133": {
+        "text": ". HUMBERTA NAVARRETE BAUTISTA",
+        "semantic_clasification": 0
+    },
+    "poly_0134": {
+        "text": "$1.034.68",
+        "semantic_clasification": 2
+    },
+    "poly_0135": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0136": {
+        "text": "499.50X",
+        "semantic_clasification": 2
+    },
+    "poly_0137": {
+        "text": "ANDRES VENEGAS JIMENEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0138": {
+        "text": "$3,415.93",
+        "semantic_clasification": 2
+    },
+    "poly_0139": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0140": {
+        "text": "930.003",
+        "semantic_clasification": 2
+    },
+    "poly_0141": {
+        "text": ".AURELIO",
+        "semantic_clasification": 0
+    },
+    "poly_0142": {
+        "text": "MONTANO",
+        "semantic_clasification": 0
+    },
+    "poly_0143": {
+        "text": "VELAZQUEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0144": {
+        "text": "#",
+        "semantic_clasification": 0
+    },
+    "poly_0145": {
+        "text": "$3,030.20",
+        "semantic_clasification": 2
+    },
+    "poly_0146": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0147": {
+        "text": "X",
+        "semantic_clasification": 0
+    },
+    "poly_0148": {
+        "text": "825.00",
+        "semantic_clasification": 1
+    },
+    "poly_0149": {
+        "text": "J. GUADALUPE RODRIGUEZ SANCHEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0150": {
+        "text": "1,735.51",
+        "semantic_clasification": 2
+    },
+    "poly_0151": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0152": {
+        "text": "472.50",
+        "semantic_clasification": 2
+    },
+    "poly_0153": {
+        "text": "CREGENCIO MONTANO BAUTISTA",
+        "semantic_clasification": 0
+    },
+    "poly_0154": {
+        "text": "$3.184.52",
+        "semantic_clasification": 2
+    },
+    "poly_0155": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0156": {
+        "text": "867.00",
+        "semantic_clasification": 1
+    },
+    "poly_0157": {
+        "text": "MARTHA BAUTISTA BASTIDA CMARTi N A",
+        "semantic_clasification": 0
+    },
+    "poly_0158": {
+        "text": "50.840.00",
+        "semantic_clasification": 1
+    },
+    "poly_0159": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0160": {
+        "text": "1.864.50",
+        "semantic_clasification": 2
+    },
+    "poly_0161": {
+        "text": "SILVIANO",
+        "semantic_clasification": 0
+    },
+    "poly_0162": {
+        "text": "GODINEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0163": {
+        "text": "EVANGELISTA.",
+        "semantic_clasification": 0
+    },
+    "poly_0164": {
+        "text": "$3.245.13",
+        "semantic_clasification": 2
+    },
+    "poly_0165": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0166": {
+        "text": "883.50X",
+        "semantic_clasification": 2
+    },
+    "poly_0167": {
+        "text": "ANTONIO",
+        "semantic_clasification": 0
+    },
+    "poly_0168": {
+        "text": "MAXIMO",
+        "semantic_clasification": 0
+    },
+    "poly_0169": {
+        "text": "GODINEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0170": {
+        "text": "BARRERA",
+        "semantic_clasification": 0
+    },
+    "poly_0171": {
+        "text": "$3.056.65",
+        "semantic_clasification": 2
+    },
+    "poly_0172": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0173": {
+        "text": "X ",
+        "semantic_clasification": 0
+    },
+    "poly_0174": {
+        "text": "1,050.00",
+        "semantic_clasification": 1
+    },
+    "poly_0175": {
+        "text": "3",
+        "semantic_clasification": 1
+    },
+    "poly_0176": {
+        "text": "GABINO",
+        "semantic_clasification": 0
+    },
+    "poly_0177": {
+        "text": "LEON",
+        "semantic_clasification": 0
+    },
+    "poly_0178": {
+        "text": "GONZALEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0179": {
+        "text": "52.754.7",
+        "semantic_clasification": 1
+    },
+    "poly_0180": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0181": {
+        "text": "750.00X ",
+        "semantic_clasification": 1
+    },
+    "poly_0182": {
+        "text": "1. MODESTO DOMINGUEZ CORTEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0183": {
+        "text": "$1,542.61",
+        "semantic_clasification": 2
+    },
+    "poly_0184": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0185": {
+        "text": "420.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0186": {
+        "text": "jUAN,GARCIA",
+        "semantic_clasification": 0
+    },
+    "poly_0187": {
+        "text": "NAVARRETE",
+        "semantic_clasification": 0
+    },
+    "poly_0188": {
+        "text": "$3,22C.G",
+        "semantic_clasification": 2
+    },
+    "poly_0189": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0190": {
+        "text": "879.00X",
+        "semantic_clasification": 0
+    },
+    "poly_0191": {
+        "text": "EULALIA RODRIGUEZ FLORES",
+        "semantic_clasification": 0
+    },
+    "poly_0192": {
+        "text": "$1.513.21",
+        "semantic_clasification": 2
+    },
+    "poly_0193": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0194": {
+        "text": "412.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0195": {
+        "text": " GUILLERMO DOMINGUEZ CORTEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0196": {
+        "text": "2958.61",
+        "semantic_clasification": 2
+    },
+    "poly_0197": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0198": {
+        "text": "261.00%",
+        "semantic_clasification": 1
+    },
+    "poly_0199": {
+        "text": "IMELCHOR",
+        "semantic_clasification": 0
+    },
+    "poly_0200": {
+        "text": "CHAVEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0201": {
+        "text": "VIDAL",
+        "semantic_clasification": 0
+    },
+    "poly_0202": {
+        "text": "$4,559.11",
+        "semantic_clasification": 2
+    },
+    "poly_0203": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0204": {
+        "text": "1.241.25",
+        "semantic_clasification": 2
+    },
+    "poly_0205": {
+        "text": "FJ",
+        "semantic_clasification": 0
+    },
+    "poly_0206": {
+        "text": "IGNACIO",
+        "semantic_clasification": 0
+    },
+    "poly_0207": {
+        "text": "RODRIGUEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0208": {
+        "text": "NAVARRETE",
+        "semantic_clasification": 0
+    },
+    "poly_0209": {
+        "text": "$4.683.1",
+        "semantic_clasification": 2
+    },
+    "poly_0210": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0211": {
+        "text": ".1.275.00X",
+        "semantic_clasification": 1
+    },
+    "poly_0212": {
+        "text": " JUAN MARIO SANCHEZ ROBLES",
+        "semantic_clasification": 0
+    },
+    "poly_0213": {
+        "text": "$2.534.41",
+        "semantic_clasification": 2
+    },
+    "poly_0214": {
+        "text": "$3.6730384.",
+        "semantic_clasification": 2
+    },
+    "poly_0215": {
+        "text": ".690.00",
+        "semantic_clasification": 1
+    },
+    "poly_0216": {
+        "text": " ADRIAN RODRIGUEZ VERA",
+        "semantic_clasification": 0
+    },
+    "poly_0217": {
+        "text": "$3,261.6",
+        "semantic_clasification": 2
+    },
+    "poly_0218": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0219": {
+        "text": ".888.002",
+        "semantic_clasification": 2
+    },
+    "poly_0220": {
+        "text": "FRANCISCO",
+        "semantic_clasification": 0
+    },
+    "poly_0221": {
+        "text": "MELECIO",
+        "semantic_clasification": 0
+    },
+    "poly_0222": {
+        "text": "GONZALEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0223": {
+        "text": "$3.278.1",
+        "semantic_clasification": 2
+    },
+    "poly_0224": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0225": {
+        "text": "892.50",
+        "semantic_clasification": 2
+    },
+    "poly_0226": {
+        "text": "$6.225.C",
+        "semantic_clasification": 2
+    },
+    "poly_0227": {
+        "text": "$3.6730384",
+        "semantic_clasification": 2
+    },
+    "poly_0228": {
+        "text": "1.695.00%.",
+        "semantic_clasification": 1
+    },
+    "poly_0229": {
+        "text": "JUAN",
+        "semantic_clasification": 0
+    },
+    "poly_0230": {
+        "text": "DARRERA",
+        "semantic_clasification": 0
+    },
+    "poly_0231": {
+        "text": "RAMIREZ",
+        "semantic_clasification": 0
+    },
+    "poly_0232": {
+        "text": "Pagina",
+        "semantic_clasification": 0
+    },
+    "poly_0233": {
+        "text": "1",
+        "semantic_clasification": 1
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "poly_0000": {
+        "text": "250720231246 PM",
+        "semantic_clasification": 1
+    },
+    "poly_0001": {
+        "text": "CAJERO",
+        "semantic_clasification": 0
+    },
+    "poly_0002": {
+        "text": "RAZIEL",
+        "semantic_clasification": 0
+    },
+    "poly_0003": {
+        "text": "JAFET",
+        "semantic_clasification": 0
+    },
+    "poly_0004": {
+        "text": "TURNO",
+        "semantic_clasification": 0
+    },
+    "poly_0005": {
+        "text": "#",
+        "semantic_clasification": 0
+    },
+    "poly_0006": {
+        "text": "5428",
+        "semantic_clasification": 1
+    },
+    "poly_0007": {
+        "text": "FOLIO",
+        "semantic_clasification": 0
+    },
+    "poly_0008": {
+        "text": "83376",
+        "semantic_clasification": 1
+    },
+    "poly_0009": {
+        "text": "CANT,",
+        "semantic_clasification": 0
+    },
+    "poly_0010": {
+        "text": "DESCRIPCION",
+        "semantic_clasification": 0
+    },
+    "poly_0011": {
+        "text": "PRECIO",
+        "semantic_clasification": 0
+    },
+    "poly_0012": {
+        "text": "IMPORTE",
+        "semantic_clasification": 0
+    },
+    "poly_0013": {
+        "text": "72 PROFESIONAL KID $18.50$1,332.00M",
+        "semantic_clasification": 2
+    },
+    "poly_0014": {
+        "text": "C5",
+        "semantic_clasification": -1
+    },
+    "poly_0015": {
+        "text": "C100",
+        "semantic_clasification": 0
+    },
+    "poly_0016": {
+        "text": "36 PROFESIONAL SCRI $19.50 $702.00",
+        "semantic_clasification": 2
+    },
+    "poly_0017": {
+        "text": "BE",
+        "semantic_clasification": 0
+    },
+    "poly_0018": {
+        "text": "C5MM",
+        "semantic_clasification": 0
+    },
+    "poly_0019": {
+        "text": "C100",
+        "semantic_clasification": 0
+    },
+    "poly_0020": {
+        "text": "H",
+        "semantic_clasification": 0
+    },
+    "poly_0021": {
+        "text": "OJAS",
+        "semantic_clasification": 0
+    },
+    "poly_0022": {
+        "text": "36",
+        "semantic_clasification": 1
+    },
+    "poly_0023": {
+        "text": "PROFESIONAL",
+        "semantic_clasification": 0
+    },
+    "poly_0024": {
+        "text": "KID",
+        "semantic_clasification": 0
+    },
+    "poly_0025": {
+        "text": "$18.50 $666.00",
+        "semantic_clasification": 2
+    },
+    "poly_0026": {
+        "text": "C7",
+        "semantic_clasification": -1
+    },
+    "poly_0027": {
+        "text": "C100",
+        "semantic_clasification": 0
+    },
+    "poly_0028": {
+        "text": "36 PROFESIONAL $CRI $19.50 $702.00",
+        "semantic_clasification": 2
+    },
+    "poly_0029": {
+        "text": "BE",
+        "semantic_clasification": 0
+    },
+    "poly_0030": {
+        "text": "C7MM",
+        "semantic_clasification": 0
+    },
+    "poly_0031": {
+        "text": "C100",
+        "semantic_clasification": 0
+    },
+    "poly_0032": {
+        "text": "H",
+        "semantic_clasification": 0
+    },
+    "poly_0033": {
+        "text": "OJAS",
+        "semantic_clasification": 0
+    },
+    "poly_0034": {
+        "text": "5 ITALIANO C7 C10 $17.00 $85.0O",
+        "semantic_clasification": -1
+    },
+    "poly_0035": {
+        "text": "0",
+        "semantic_clasification": 1
+    },
+    "poly_0036": {
+        "text": "10 FRANCES C5 C10 $17.00 $170.00",
+        "semantic_clasification": 0
+    },
+    "poly_0037": {
+        "text": "0",
+        "semantic_clasification": 1
+    },
+    "poly_0038": {
+        "text": "5",
+        "semantic_clasification": 1
+    },
+    "poly_0039": {
+        "text": "FRANCES C7 C100 $17.00 $85.00",
+        "semantic_clasification": -1
+    },
+    "poly_0040": {
+        "text": "10 ITALIANO C5 C1 $17.00 $170.00",
+        "semantic_clasification": -1
+    },
+    "poly_0041": {
+        "text": "00",
+        "semantic_clasification": 1
+    },
+    "poly_0042": {
+        "text": "1",
+        "semantic_clasification": 1
+    },
+    "poly_0043": {
+        "text": "ROLLO PRACTIFORRO $150.00 $150.00",
+        "semantic_clasification": -1
+    },
+    "poly_0044": {
+        "text": "#2.5",
+        "semantic_clasification": 1
+    },
+    "poly_0045": {
+        "text": "30MTS",
+        "semantic_clasification": 0
+    },
+    "poly_0046": {
+        "text": "2 HOJA BLANCA MARAT $72.00 $144.00",
+        "semantic_clasification": -1
+    },
+    "poly_0047": {
+        "text": "HON",
+        "semantic_clasification": 0
+    },
+    "poly_0048": {
+        "text": "TC",
+        "semantic_clasification": 0
+    },
+    "poly_0049": {
+        "text": "C500",
+        "semantic_clasification": 0
+    },
+    "poly_0050": {
+        "text": "NO.DE ARTICULOS 213",
+        "semantic_clasification": 0
+    },
+    "poly_0051": {
+        "text": "TCTAL $4 206.00",
+        "semantic_clasification": 2
+    },
+    "poly_0052": {
+        "text": "PAGO CQN$4206.00",
+        "semantic_clasification": 2
+    },
+    "poly_0053": {
+        "text": "SU",
+        "semantic_clasification": 0
+    },
+    "poly_0054": {
+        "text": "CAMB1O$0.00X",
+        "semantic_clasification": -1
+    }
+}
