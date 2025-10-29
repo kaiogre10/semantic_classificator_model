@@ -49,11 +49,11 @@
     },
     "poly_0012": {
         "text": "M2",
-        "semantic_clasification": -1
+        "semantic_clasification": -2
     },
     "poly_0013": {
         "text": "M2",
-        "semantic_clasification": -1
+        "semantic_clasification": -2
     },
     "poly_0014": {
         "text": "33,151.47",
@@ -65,11 +65,11 @@
     },
     "poly_0016": {
         "text": "858.00sX",
-        "semantic_clasification": 0
+        "semantic_clasification": 2
     },
     "poly_0017": {
         "text": "4O",
-        "semantic_clasification": -1
+        "semantic_clasification": 1
     },
     "poly_0018": {
         "text": "EUL",
@@ -129,7 +129,7 @@
     },
     "poly_0032": {
         "text": "1,725.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0033": {
         "text": "42 PAILO ESCALCNA FLORES ",
@@ -145,7 +145,7 @@
     },
     "poly_0036": {
         "text": "861.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0037": {
         "text": "43 LECBARDO LUNA RODRIGUEZ",
@@ -165,7 +165,7 @@
     },
     "poly_0041": {
         "text": "960.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0042": {
         "text": "44",
@@ -213,7 +213,7 @@
     },
     "poly_0053": {
         "text": "210.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0054": {
         "text": "46",
@@ -241,7 +241,7 @@
     },
     "poly_0060": {
         "text": "147.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0061": {
         "text": "17 FEiIPA SOSA RODRIGUEZ",
@@ -257,7 +257,7 @@
     },
     "poly_0064": {
         "text": "750.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0065": {
         "text": " x",
@@ -277,7 +277,7 @@
     },
     "poly_0069": {
         "text": "705.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0070": {
         "text": "49 A. EZEQUIEL NAVARRETE REYES",
@@ -285,7 +285,7 @@
     },
     "poly_0071": {
         "text": "2.975.1",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0072": {
         "text": "$3.6730384",
@@ -293,7 +293,7 @@
     },
     "poly_0073": {
         "text": "810.00  X",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0074": {
         "text": "50.ARTUP.O",
@@ -317,7 +317,7 @@
     },
     "poly_0079": {
         "text": "1.191.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0080": {
         "text": "51 J.11ES RODRIGUEZ PRUDENGIE",

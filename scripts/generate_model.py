@@ -1,7 +1,6 @@
 import os
 import logging
 import pickle
-import json
 import yaml
 import time
 from datetime import datetime
@@ -28,8 +27,9 @@ class ModelGenerator:
     def generate_model(self, config_file: str, label_path: str) -> Optional[Dict[str, Any]]:
         """Lee YAML, normaliza variantes, precomputa n-gramas 2-5y guarda un pickle con toda la info necesaria para WordFinder."""
         time1 = time.perf_counter()
+        self.label_path = label_path
         self.config_file = config_file
-        self.config_dict: Dict[str, Any] = {}
+        self.config_dict: Dict[str, Dict[str, Any]] = {}
         try:
             if not os.path.exists(self.config_file):
                 raise FileNotFoundError(f"No existe config: {self.config_file}")
@@ -41,48 +41,21 @@ class ModelGenerator:
             return None
         
         self._train = TrainModel(config=self.config_dict, project_root=self.project_root, label_path=self.label_path)
-        self.params: Dict[str, Any] = self.config_dict.get("params", {})
-        key_words: Dict[str, List[str]] = self.key_words_dict.get("key_words", {})
-        noise_words = self.key_words_dict.get("noise_words", [])
-
-        # Construir vocabulario normalizado
-        global_words: List[str] = []
-        variant_to_field: Dict[str, str] = {}
-        
-        for field, variants in key_words.items():
-            if not variants:
-                continue
-            if isinstance(variants, str):
-                variants = [variants]
-            if not isinstance(variants, (list, tuple)): # type: ignore
-                continue
-            for v in variants:
-                if not isinstance(v, str): # type: ignore
-                    continue
-                s = self._normalize(v)
-                if not s:
-                    continue
-                global_words.append(s)
-                variant_to_field[s] = field
+        self.params = self.config_dict.get("params", {})
                 
-        global_filter, noise_filter = self._train.train_all_vectorizers(global_words, noise_words)
+        features = self._train.generate_feaures()
 
         now = datetime.now()
         model_time = now.isoformat()
                             
         model: Dict[str, Any] = {
             "params": self.params,
-            "noise_filter": noise_filter,
-            "global_filter": global_filter,
-            "variant_to_field": variant_to_field,
-            "noise_words": noise_words,
-            "global_words": global_words,
             "model_time": model_time,
         }
 
         logger.info(f"Modelo generado en: {time.perf_counter()-time1}s")
 
-        output_path = os.path.join(self.project_root, "models", "wf_model.pkl")
+        output_path = os.path.join(self.project_root, "models", "sc_model.pkl")
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         
         try:
