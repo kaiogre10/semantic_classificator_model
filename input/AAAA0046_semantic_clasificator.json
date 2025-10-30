@@ -21,11 +21,11 @@
     },
     "poly_0005": {
         "text": "CP",
-        "semantic_clasification": 0
+        "semantic_clasification": -1
     },
     "poly_0006": {
         "text": "55600",
-        "semantic_clasification": 1
+        "semantic_clasification": -1
     },
     "poly_0007": {
         "text": "JOSE MENDEZ DAVILA R.F.C.MEDJ630711HU5",
@@ -97,7 +97,7 @@
     },
     "poly_0024": {
         "text": "A1251",
-        "semantic_clasification": 0
+        "semantic_clasification": -1
     },
     "poly_0025": {
         "text": "CAJERO",
@@ -141,11 +141,11 @@
     },
     "poly_0035": {
         "text": "8G",
-        "semantic_clasification": -1
+        "semantic_clasification": -2
     },
     "poly_0036": {
         "text": "C30.",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0037": {
         "text": "1",
@@ -169,11 +169,11 @@
     },
     "poly_0042": {
         "text": "21G",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0043": {
         "text": "C4",
-        "semantic_clasification": -1
+        "semantic_clasification": -2
     },
     "poly_0044": {
         "text": "$69.93",
@@ -185,7 +185,7 @@
     },
     "poly_0046": {
         "text": "COLORESMAPITA 12C C10 $114.67 $114.67",
-        "semantic_clasification": 2
+        "semantic_clasification": 0
     },
     "poly_0047": {
         "text": "1",
@@ -209,7 +209,7 @@
     },
     "poly_0052": {
         "text": "C10",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0053": {
         "text": "1",
@@ -217,11 +217,11 @@
     },
     "poly_0054": {
         "text": "$30.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0055": {
         "text": "$30.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0056": {
         "text": "NO.",
@@ -330,5 +330,33 @@
     "poly_0082": {
         "text": "DEVOLUCIONES.",
         "semantic_clasification": 0
+    },
+    "poly_0083": {
+        "text": "JOSE MENDEZ DAVILA",
+        "semantic_clasification": 0
+    },
+    "poly_0084": {
+        "text": "R.F.C.MEDJ630711HU5",
+        "semantic_clasification": -1
+    },
+    "poly_0085": {
+        "text": "COLORESMAPITA",
+        "semantic_clasification": 0
+    },
+    "poly_0086": {
+        "text": "12C",
+        "semantic_clasification": -2
+    },
+    "poly_0087": {
+        "text": "C10",
+        "semantic_clasification": -2
+    },
+    "poly_0088": {
+        "text": "$114.67 $114.67",
+        "semantic_clasification": 2
+    },
+    "poly_0089": {
+        "text": "$114.67",
+        "semantic_clasification": 2
     }
 }

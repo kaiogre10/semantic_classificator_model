@@ -53,7 +53,7 @@
     },
     "poly_0013": {
         "text": "A1251",
-        "semantic_clasification": 0
+        "semantic_clasification": -1
     },
     "poly_0014": {
         "text": "MZ",
@@ -113,7 +113,7 @@
     },
     "poly_0028": {
         "text": "C500",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0029": {
         "text": "1",
@@ -137,7 +137,7 @@
     },
     "poly_0034": {
         "text": "100H",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0035": {
         "text": "BCO",
@@ -169,7 +169,7 @@
     },
     "poly_0042": {
         "text": "C25",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0043": {
         "text": "1",
@@ -193,7 +193,7 @@
     },
     "poly_0048": {
         "text": "60ML",
-        "semantic_clasification": -1
+        "semantic_clasification": -2
     },
     "poly_0049": {
         "text": "6",
@@ -217,7 +217,7 @@
     },
     "poly_0054": {
         "text": "30ML",
-        "semantic_clasification": -1
+        "semantic_clasification": -2
     },
     "poly_0055": {
         "text": "6",
@@ -225,7 +225,7 @@
     },
     "poly_0056": {
         "text": "MICA ADHERIBLE TRF 50X6 $139.00 $139.00",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
     },
     "poly_0057": {
         "text": "5",
@@ -233,7 +233,7 @@
     },
     "poly_0058": {
         "text": "C10",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0059": {
         "text": "$83.76",
@@ -301,7 +301,7 @@
     },
     "poly_0075": {
         "text": "$0.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0076": {
         "text": "USTED AHORRO $235.68",
@@ -318,5 +318,29 @@
     "poly_0079": {
         "text": "0",
         "semantic_clasification": 1
+    },
+    "poly_0080": {
+        "text": "$235.68",
+        "semantic_clasification": 2
+    },
+    "poly_0081": {
+        "text": "USTED AHORRO",
+        "semantic_clasification": 0
+    },
+    "poly_0082": {
+        "text": "$139.00 $139.00",
+        "semantic_clasification": 2
+    },
+    "poly_0083": {
+        "text": "MICA ADHERIBLE TRF 50X6",
+        "semantic_clasification": 0
+    },
+    "poly_0084": {
+        "text": "50X6",
+        "semantic_clasification": -2
+    },
+    "poly_0085": {
+        "text": "MICA ADHERIBLE TRF",
+        "semantic_clasification": 0
     }
 }

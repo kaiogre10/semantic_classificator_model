@@ -17,7 +17,7 @@
     },
     "poly_0004": {
         "text": "#",
-        "semantic_clasification": 0
+        "semantic_clasification": -1
     },
     "poly_0005": {
         "text": "62.35",
@@ -85,6 +85,14 @@
     },
     "poly_0021": {
         "text": "CAMBIO$0.00",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
+    },
+    "poly_0022": {
+        "text": "CAMBIO",
+        "semantic_clasification": 0
+    },
+    "poly_0023": {
+        "text": "$0.00",
+        "semantic_clasification": 2
     }
 }

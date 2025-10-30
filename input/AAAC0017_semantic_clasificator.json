@@ -21,11 +21,11 @@
     },
     "poly_0005": {
         "text": "#",
-        "semantic_clasification": 0
+        "semantic_clasification": -1
     },
     "poly_0006": {
         "text": "5428",
-        "semantic_clasification": 1
+        "semantic_clasification": -1
     },
     "poly_0007": {
         "text": "FOLIO",
@@ -61,7 +61,7 @@
     },
     "poly_0015": {
         "text": "C100",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0016": {
         "text": "36 PROFESIONAL SCRI $19.50 $702.00",
@@ -73,11 +73,11 @@
     },
     "poly_0018": {
         "text": "C5MM",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0019": {
         "text": "C100",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0020": {
         "text": "H",
@@ -109,7 +109,7 @@
     },
     "poly_0027": {
         "text": "C100",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0028": {
         "text": "36 PROFESIONAL $CRI $19.50 $702.00",
@@ -121,11 +121,11 @@
     },
     "poly_0030": {
         "text": "C7MM",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0031": {
         "text": "C100",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0032": {
         "text": "H",
@@ -137,7 +137,7 @@
     },
     "poly_0034": {
         "text": "5 ITALIANO C7 C10 $17.00 $85.0O",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
     },
     "poly_0035": {
         "text": "0",
@@ -145,7 +145,7 @@
     },
     "poly_0036": {
         "text": "10 FRANCES C5 C10 $17.00 $170.00",
-        "semantic_clasification": 0
+        "semantic_clasification": 2
     },
     "poly_0037": {
         "text": "0",
@@ -157,11 +157,11 @@
     },
     "poly_0039": {
         "text": "FRANCES C7 C100 $17.00 $85.00",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
     },
     "poly_0040": {
         "text": "10 ITALIANO C5 C1 $17.00 $170.00",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
     },
     "poly_0041": {
         "text": "00",
@@ -173,19 +173,19 @@
     },
     "poly_0043": {
         "text": "ROLLO PRACTIFORRO $150.00 $150.00",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
     },
     "poly_0044": {
         "text": "#2.5",
-        "semantic_clasification": 1
+        "semantic_clasification": -1
     },
     "poly_0045": {
         "text": "30MTS",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0046": {
         "text": "2 HOJA BLANCA MARAT $72.00 $144.00",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
     },
     "poly_0047": {
         "text": "HON",
@@ -197,7 +197,7 @@
     },
     "poly_0049": {
         "text": "C500",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0050": {
         "text": "NO.DE ARTICULOS 213",
@@ -217,6 +217,14 @@
     },
     "poly_0054": {
         "text": "CAMB1O$0.00X",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
+    },
+    "poly_0055": {
+        "text": "$0.00X",
+        "semantic_clasification": 2
+    },
+    "poly_0056": {
+        "text": "CAMB1O",
+        "semantic_clasification": 0
     }
 }

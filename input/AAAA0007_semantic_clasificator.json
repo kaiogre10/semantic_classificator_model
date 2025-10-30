@@ -25,7 +25,7 @@
     },
     "poly_0006": {
         "text": "R.F.C.",
-        "semantic_clasification": -1
+        "semantic_clasification": 0
     },
     "poly_0007": {
         "text": "MEDJ630711HU5",
@@ -161,7 +161,7 @@
     },
     "poly_0040": {
         "text": "P.S.",
-        "semantic_clasification": -1
+        "semantic_clasification": 0
     },
     "poly_0041": {
         "text": "SILICON",
@@ -269,7 +269,7 @@
     },
     "poly_0067": {
         "text": "30ml",
-        "semantic_clasification": -1
+        "semantic_clasification": -2
     },
     "poly_0068": {
         "text": "C12",
@@ -377,7 +377,7 @@
     },
     "poly_0094": {
         "text": "C12V",
-        "semantic_clasification": -1
+        "semantic_clasification": -2
     },
     "poly_0095": {
         "text": "75.90",
@@ -405,7 +405,7 @@
     },
     "poly_0101": {
         "text": "C10",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0102": {
         "text": "1",
@@ -469,7 +469,7 @@
     },
     "poly_0117": {
         "text": "10P",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0118": {
         "text": "21.60",
@@ -501,15 +501,15 @@
     },
     "poly_0125": {
         "text": "C12",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0126": {
         "text": "75.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0127": {
         "text": "75.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0128": {
         "text": "14",

@@ -349,7 +349,7 @@
     },
     "poly_0087": {
         "text": "852.00X",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0088": {
         "text": "53",
@@ -377,7 +377,7 @@
     },
     "poly_0094": {
         "text": "630.00 .",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0095": {
         "text": "$231",
@@ -397,7 +397,7 @@
     },
     "poly_0099": {
         "text": "1.464.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0100": {
         "text": "55 JEEUSALMAAN ROJAS",
@@ -413,7 +413,7 @@
     },
     "poly_0103": {
         "text": "750.00 ",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0104": {
         "text": "SC M.GUEL MONTANO SOSA",
@@ -429,7 +429,7 @@
     },
     "poly_0107": {
         "text": "444.00 ",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0108": {
         "text": "S7EUSTOLIA.CALZADABASTIDA",
@@ -445,7 +445,7 @@
     },
     "poly_0111": {
         "text": "873.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0112": {
         "text": "S8 MAURO REYES RODRIGUEZ",
@@ -461,7 +461,7 @@
     },
     "poly_0115": {
         "text": "855.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0116": {
         "text": "59ALVARO GODINEZDOMINGUEZ",
@@ -469,7 +469,7 @@
     },
     "poly_0117": {
         "text": "$1.055.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0118": {
         "text": "$3.6730384",
@@ -477,7 +477,7 @@
     },
     "poly_0119": {
         "text": "282.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0120": {
         "text": "x",
@@ -505,7 +505,7 @@
     },
     "poly_0126": {
         "text": "127.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0127": {
         "text": "$3.6730384",
@@ -537,11 +537,11 @@
     },
     "poly_0134": {
         "text": "165.00.",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0135": {
         "text": "62A1ADA",
-        "semantic_clasification": 0
+        "semantic_clasification": -1
     },
     "poly_0136": {
         "text": "VARGAS",
@@ -549,7 +549,7 @@
     },
     "poly_0137": {
         "text": "2.754.7",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0138": {
         "text": "$3.673038",
@@ -557,7 +557,7 @@
     },
     "poly_0139": {
         "text": "750.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0140": {
         "text": ".63ANDRESDOMINGUEZ",
@@ -573,7 +573,7 @@
     },
     "poly_0143": {
         "text": "780.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0144": {
         "text": "64ANSELMO",
@@ -585,7 +585,7 @@
     },
     "poly_0146": {
         "text": "7.713.3n",
-        "semantic_clasification": 0
+        "semantic_clasification": 2
     },
     "poly_0147": {
         "text": "$3.6730384",
@@ -593,7 +593,7 @@
     },
     "poly_0148": {
         "text": "2,100.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0149": {
         "text": "G5.FCO.FERMIN RODRIGUEZ",
@@ -625,11 +625,11 @@
     },
     "poly_0156": {
         "text": "525.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0157": {
         "text": "1.0",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0158": {
         "text": "C7",
@@ -661,7 +661,7 @@
     },
     "poly_0165": {
         "text": "300.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0166": {
         "text": ".68jOMAS SANCHEZ RODRIGUEZ",
@@ -677,7 +677,7 @@
     },
     "poly_0169": {
         "text": "780.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0170": {
         "text": "6YETEFAHAXAYARRETEGODINEZ",
@@ -705,7 +705,7 @@
     },
     "poly_0176": {
         "text": "M2",
-        "semantic_clasification": -1
+        "semantic_clasification": -2
     },
     "poly_0177": {
         "text": "373",
@@ -717,7 +717,7 @@
     },
     "poly_0179": {
         "text": "$216,000.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0180": {
         "text": "CANTIDAD",

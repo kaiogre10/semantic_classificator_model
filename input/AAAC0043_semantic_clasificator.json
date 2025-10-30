@@ -21,11 +21,11 @@
     },
     "poly_0005": {
         "text": "#",
-        "semantic_clasification": 0
+        "semantic_clasification": -1
     },
     "poly_0006": {
         "text": "4425",
-        "semantic_clasification": 1
+        "semantic_clasification": -1
     },
     "poly_0007": {
         "text": "61688",
@@ -49,7 +49,7 @@
     },
     "poly_0012": {
         "text": "6 Gl$ BLANCO C12B $10.00 $60.00",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
     },
     "poly_0013": {
         "text": "ACO",
@@ -57,7 +57,7 @@
     },
     "poly_0014": {
         "text": "6 GIS COLOR C12BA $11.0O $66.0O",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
     },
     "poly_0015": {
         "text": "CINTA",
@@ -73,11 +73,11 @@
     },
     "poly_0018": {
         "text": "$45.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0019": {
         "text": "$45.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0020": {
         "text": "2",
@@ -85,7 +85,7 @@
     },
     "poly_0021": {
         "text": "$22.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0022": {
         "text": "2 LIMPIAPIPAS MATE",
@@ -93,7 +93,7 @@
     },
     "poly_0023": {
         "text": "344.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0024": {
         "text": "NEGRO",
@@ -113,11 +113,11 @@
     },
     "poly_0028": {
         "text": "$10.00 $60.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0029": {
         "text": "10 ILUSTRACION 18 $5.00 $5O.0O",
-        "semantic_clasification": -1
+        "semantic_clasification": 2
     },
     "poly_0030": {
         "text": "1 SUJETA DOCUMENTOS $37.50 $37.50",
@@ -125,7 +125,7 @@
     },
     "poly_0031": {
         "text": "41MM",
-        "semantic_clasification": -1
+        "semantic_clasification": -2
     },
     "poly_0032": {
         "text": "1",
@@ -145,7 +145,7 @@
     },
     "poly_0036": {
         "text": "$37.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0037": {
         "text": "s",
@@ -153,7 +153,7 @@
     },
     "poly_0038": {
         "text": "$37.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0039": {
         "text": "S",
@@ -161,7 +161,7 @@
     },
     "poly_0040": {
         "text": "C102",
-        "semantic_clasification": 0
+        "semantic_clasification": -2
     },
     "poly_0041": {
         "text": "10 CARTULINA PASTEL",
@@ -173,7 +173,7 @@
     },
     "poly_0043": {
         "text": "$35.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0044": {
         "text": "AMARILLA",
@@ -181,7 +181,7 @@
     },
     "poly_0045": {
         "text": "1O",
-        "semantic_clasification": -1
+        "semantic_clasification": 1
     },
     "poly_0046": {
         "text": "CARTULINA",
@@ -205,7 +205,7 @@
     },
     "poly_0051": {
         "text": "1O",
-        "semantic_clasification": -1
+        "semantic_clasification": 1
     },
     "poly_0052": {
         "text": "CARTULINA",
@@ -225,11 +225,11 @@
     },
     "poly_0056": {
         "text": "$49.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0057": {
         "text": "1O",
-        "semantic_clasification": -1
+        "semantic_clasification": 1
     },
     "poly_0058": {
         "text": "CARTULINA",
@@ -293,7 +293,7 @@
     },
     "poly_0073": {
         "text": "$600.00",
-        "semantic_clasification": 1
+        "semantic_clasification": 2
     },
     "poly_0074": {
         "text": "sU CAMBlO$11.$0",
