@@ -1,0 +1,334 @@
+{
+    "poly_0000": {
+        "text": "PAPELERIA",
+        "semantic_clasification": 0
+    },
+    "poly_0001": {
+        "text": "EL",
+        "semantic_clasification": 0
+    },
+    "poly_0002": {
+        "text": "ESTUDIANTE",
+        "semantic_clasification": 0
+    },
+    "poly_0003": {
+        "text": "FEDERICO",
+        "semantic_clasification": 0
+    },
+    "poly_0004": {
+        "text": "GOMEZ6",
+        "semantic_clasification": 0
+    },
+    "poly_0005": {
+        "text": "ZUMPANGO",
+        "semantic_clasification": 0
+    },
+    "poly_0006": {
+        "text": "EDO",
+        "semantic_clasification": 0
+    },
+    "poly_0007": {
+        "text": "MEX",
+        "semantic_clasification": 0
+    },
+    "poly_0008": {
+        "text": "CP55600",
+        "semantic_clasification": -1
+    },
+    "poly_0009": {
+        "text": "JOSE",
+        "semantic_clasification": 0
+    },
+    "poly_0010": {
+        "text": "MENDEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0011": {
+        "text": "DAVILA",
+        "semantic_clasification": 0
+    },
+    "poly_0012": {
+        "text": "R.F.C.MEDJ630711HU5",
+        "semantic_clasification": -1
+    },
+    "poly_0013": {
+        "text": "REGIMEN",
+        "semantic_clasification": 0
+    },
+    "poly_0014": {
+        "text": "SIMPLIFICADO",
+        "semantic_clasification": 0
+    },
+    "poly_0015": {
+        "text": "DE",
+        "semantic_clasification": 0
+    },
+    "poly_0016": {
+        "text": "CONFIANZA",
+        "semantic_clasification": 0
+    },
+    "poly_0017": {
+        "text": "SU",
+        "semantic_clasification": 0
+    },
+    "poly_0018": {
+        "text": "SOLUCION",
+        "semantic_clasification": 0
+    },
+    "poly_0019": {
+        "text": "EN",
+        "semantic_clasification": 0
+    },
+    "poly_0020": {
+        "text": "PAPELERIA",
+        "semantic_clasification": 0
+    },
+    "poly_0021": {
+        "text": "DE",
+        "semantic_clasification": 0
+    },
+    "poly_0022": {
+        "text": "MAYOREO",
+        "semantic_clasification": 0
+    },
+    "poly_0023": {
+        "text": "17122024",
+        "semantic_clasification": 1
+    },
+    "poly_0024": {
+        "text": "0950",
+        "semantic_clasification": -1
+    },
+    "poly_0025": {
+        "text": "AM",
+        "semantic_clasification": 0
+    },
+    "poly_0026": {
+        "text": "NOTAS DEVENTA",
+        "semantic_clasification": 0
+    },
+    "poly_0027": {
+        "text": "A1251",
+        "semantic_clasification": -1
+    },
+    "poly_0028": {
+        "text": "NM",
+        "semantic_clasification": 0
+    },
+    "poly_0029": {
+        "text": "CAJERO",
+        "semantic_clasification": 0
+    },
+    "poly_0030": {
+        "text": "4313",
+        "semantic_clasification": 1
+    },
+    "poly_0031": {
+        "text": "TICKET NO",
+        "semantic_clasification": 0
+    },
+    "poly_0032": {
+        "text": "PRECIO IMPORTE",
+        "semantic_clasification": 0
+    },
+    "poly_0033": {
+        "text": "CANT. DESCRIPCION",
+        "semantic_clasification": 0
+    },
+    "poly_0034": {
+        "text": "$36.80",
+        "semantic_clasification": 2
+    },
+    "poly_0035": {
+        "text": "$18.40 $",
+        "semantic_clasification": 2
+    },
+    "poly_0036": {
+        "text": "CAJA",
+        "semantic_clasification": 0
+    },
+    "poly_0037": {
+        "text": "CUBO",
+        "semantic_clasification": 0
+    },
+    "poly_0038": {
+        "text": "CON",
+        "semantic_clasification": 0
+    },
+    "poly_0039": {
+        "text": "TAPA",
+        "semantic_clasification": 0
+    },
+    "poly_0040": {
+        "text": "CH",
+        "semantic_clasification": 0
+    },
+    "poly_0041": {
+        "text": "2",
+        "semantic_clasification": 1
+    },
+    "poly_0042": {
+        "text": "$31.00.$62.00",
+        "semantic_clasification": 2
+    },
+    "poly_0043": {
+        "text": "CAJA",
+        "semantic_clasification": 0
+    },
+    "poly_0044": {
+        "text": "CUBO",
+        "semantic_clasification": 0
+    },
+    "poly_0045": {
+        "text": "CON",
+        "semantic_clasification": 0
+    },
+    "poly_0046": {
+        "text": "TAPA",
+        "semantic_clasification": 0
+    },
+    "poly_0047": {
+        "text": "MED",
+        "semantic_clasification": 0
+    },
+    "poly_0048": {
+        "text": "$144.00 $144.00",
+        "semantic_clasification": 2
+    },
+    "poly_0049": {
+        "text": "CILINDRO",
+        "semantic_clasification": 0
+    },
+    "poly_0050": {
+        "text": "JGO",
+        "semantic_clasification": 0
+    },
+    "poly_0051": {
+        "text": "C3",
+        "semantic_clasification": -2
+    },
+    "poly_0052": {
+        "text": "1",
+        "semantic_clasification": 1
+    },
+    "poly_0053": {
+        "text": "$25.00$50.00",
+        "semantic_clasification": 2
+    },
+    "poly_0054": {
+        "text": "CAJA",
+        "semantic_clasification": 0
+    },
+    "poly_0055": {
+        "text": "CUBO",
+        "semantic_clasification": 0
+    },
+    "poly_0056": {
+        "text": "NAT",
+        "semantic_clasification": 0
+    },
+    "poly_0057": {
+        "text": "CH",
+        "semantic_clasification": -2
+    },
+    "poly_0058": {
+        "text": "2",
+        "semantic_clasification": 1
+    },
+    "poly_0059": {
+        "text": "$35.00 $70.00",
+        "semantic_clasification": 2
+    },
+    "poly_0060": {
+        "text": "CAJA",
+        "semantic_clasification": 0
+    },
+    "poly_0061": {
+        "text": "CUBO",
+        "semantic_clasification": 0
+    },
+    "poly_0062": {
+        "text": "NAT",
+        "semantic_clasification": 0
+    },
+    "poly_0063": {
+        "text": "MED",
+        "semantic_clasification": 0
+    },
+    "poly_0064": {
+        "text": "2",
+        "semantic_clasification": 1
+    },
+    "poly_0065": {
+        "text": "$6.60 $145.20",
+        "semantic_clasification": 2
+    },
+    "poly_0066": {
+        "text": "FANTASIA COUCHE",
+        "semantic_clasification": 0
+    },
+    "poly_0067": {
+        "text": "22",
+        "semantic_clasification": 1
+    },
+    "poly_0068": {
+        "text": "NO.DE",
+        "semantic_clasification": 0
+    },
+    "poly_0069": {
+        "text": "ARTICULOS",
+        "semantic_clasification": 0
+    },
+    "poly_0070": {
+        "text": "31",
+        "semantic_clasification": 1
+    },
+    "poly_0071": {
+        "text": "TOTAL $508.00",
+        "semantic_clasification": 2
+    },
+    "poly_0072": {
+        "text": "PAGO",
+        "semantic_clasification": 0
+    },
+    "poly_0073": {
+        "text": "CON",
+        "semantic_clasification": 0
+    },
+    "poly_0074": {
+        "text": "$508.00",
+        "semantic_clasification": 2
+    },
+    "poly_0075": {
+        "text": "SU",
+        "semantic_clasification": 0
+    },
+    "poly_0076": {
+        "text": "CAMBIO",
+        "semantic_clasification": 0
+    },
+    "poly_0077": {
+        "text": "$0.00",
+        "semantic_clasification": 2
+    },
+    "poly_0078": {
+        "text": "GRACIAS",
+        "semantic_clasification": 0
+    },
+    "poly_0079": {
+        "text": "POR",
+        "semantic_clasification": 0
+    },
+    "poly_0080": {
+        "text": "SU",
+        "semantic_clasification": 0
+    },
+    "poly_0081": {
+        "text": "COMPRA",
+        "semantic_clasification": 0
+    },
+    "poly_0082": {
+        "text": "WWW.ABARROTESPUNTODEYENTA.COM",
+        "semantic_clasification": 0
+    }
+}

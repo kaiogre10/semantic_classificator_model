@@ -1,0 +1,594 @@
+{
+    "poly_0000": {
+        "text": "Papeleria",
+        "semantic_clasification": 0
+    },
+    "poly_0001": {
+        "text": "el",
+        "semantic_clasification": 0
+    },
+    "poly_0002": {
+        "text": "Estudiante",
+        "semantic_clasification": 0
+    },
+    "poly_0003": {
+        "text": "FEDERICO",
+        "semantic_clasification": 0
+    },
+    "poly_0004": {
+        "text": "G0MEZ#6",
+        "semantic_clasification": 0
+    },
+    "poly_0005": {
+        "text": "ZUMP",
+        "semantic_clasification": 0
+    },
+    "poly_0006": {
+        "text": "ED0",
+        "semantic_clasification": 0
+    },
+    "poly_0007": {
+        "text": "MEX",
+        "semantic_clasification": 0
+    },
+    "poly_0008": {
+        "text": "CP55600",
+        "semantic_clasification": -1
+    },
+    "poly_0009": {
+        "text": "JOSE",
+        "semantic_clasification": 0
+    },
+    "poly_0010": {
+        "text": "MENDEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0011": {
+        "text": "DAYILA",
+        "semantic_clasification": 0
+    },
+    "poly_0012": {
+        "text": "R.F.C.",
+        "semantic_clasification": 0
+    },
+    "poly_0013": {
+        "text": "MEDJ630711HU5",
+        "semantic_clasification": -1
+    },
+    "poly_0014": {
+        "text": "REGIMEN",
+        "semantic_clasification": 0
+    },
+    "poly_0015": {
+        "text": "SIMPLIFICADO",
+        "semantic_clasification": 0
+    },
+    "poly_0016": {
+        "text": "DE",
+        "semantic_clasification": 0
+    },
+    "poly_0017": {
+        "text": "CONFIANZA",
+        "semantic_clasification": 0
+    },
+    "poly_0018": {
+        "text": "Dibujo,ingenieria,Escritura,Computacion,",
+        "semantic_clasification": 0
+    },
+    "poly_0019": {
+        "text": "Oficina,",
+        "semantic_clasification": 0
+    },
+    "poly_0020": {
+        "text": "Papeles",
+        "semantic_clasification": 0
+    },
+    "poly_0021": {
+        "text": "Extendidos,",
+        "semantic_clasification": 0
+    },
+    "poly_0022": {
+        "text": "Escolar.",
+        "semantic_clasification": 0
+    },
+    "poly_0023": {
+        "text": "A1251",
+        "semantic_clasification": -1
+    },
+    "poly_0024": {
+        "text": "ROSA",
+        "semantic_clasification": 0
+    },
+    "poly_0025": {
+        "text": "MARIA",
+        "semantic_clasification": 0
+    },
+    "poly_0026": {
+        "text": "CENTURION",
+        "semantic_clasification": 0
+    },
+    "poly_0027": {
+        "text": "LOPEZ",
+        "semantic_clasification": 0
+    },
+    "poly_0028": {
+        "text": "Cte",
+        "semantic_clasification": 0
+    },
+    "poly_0029": {
+        "text": "19",
+        "semantic_clasification": 1
+    },
+    "poly_0030": {
+        "text": "ene",
+        "semantic_clasification": 0
+    },
+    "poly_0031": {
+        "text": "25",
+        "semantic_clasification": 1
+    },
+    "poly_0032": {
+        "text": "Nota",
+        "semantic_clasification": 0
+    },
+    "poly_0033": {
+        "text": "Mayoreo",
+        "semantic_clasification": 0
+    },
+    "poly_0034": {
+        "text": "Folio 0176",
+        "semantic_clasification": -1
+    },
+    "poly_0035": {
+        "text": "1343",
+        "semantic_clasification": 1
+    },
+    "poly_0036": {
+        "text": "Atendio",
+        "semantic_clasification": 0
+    },
+    "poly_0037": {
+        "text": "8 ML",
+        "semantic_clasification": -1
+    },
+    "poly_0038": {
+        "text": "Cant.",
+        "semantic_clasification": 0
+    },
+    "poly_0039": {
+        "text": "Producto",
+        "semantic_clasification": 0
+    },
+    "poly_0040": {
+        "text": "P.U.C.O",
+        "semantic_clasification": 0
+    },
+    "poly_0041": {
+        "text": "Importe",
+        "semantic_clasification": 0
+    },
+    "poly_0042": {
+        "text": "P.S.",
+        "semantic_clasification": 0
+    },
+    "poly_0043": {
+        "text": "3",
+        "semantic_clasification": 1
+    },
+    "poly_0044": {
+        "text": "VINCI",
+        "semantic_clasification": 0
+    },
+    "poly_0045": {
+        "text": "25",
+        "semantic_clasification": 1
+    },
+    "poly_0046": {
+        "text": "AM",
+        "semantic_clasification": 0
+    },
+    "poly_0047": {
+        "text": "LIM",
+        "semantic_clasification": 0
+    },
+    "poly_0048": {
+        "text": "50",
+        "semantic_clasification": 1
+    },
+    "poly_0049": {
+        "text": "C10",
+        "semantic_clasification": -2
+    },
+    "poly_0050": {
+        "text": "85.50",
+        "semantic_clasification": 2
+    },
+    "poly_0051": {
+        "text": "256.50",
+        "semantic_clasification": 2
+    },
+    "poly_0052": {
+        "text": "12",
+        "semantic_clasification": 1
+    },
+    "poly_0053": {
+        "text": "5",
+        "semantic_clasification": 1
+    },
+    "poly_0054": {
+        "text": "PUNTILLAS",
+        "semantic_clasification": 0
+    },
+    "poly_0055": {
+        "text": "PM",
+        "semantic_clasification": 0
+    },
+    "poly_0056": {
+        "text": "0.5",
+        "semantic_clasification": 1
+    },
+    "poly_0057": {
+        "text": "9.49",
+        "semantic_clasification": 2
+    },
+    "poly_0058": {
+        "text": "47.45",
+        "semantic_clasification": 2
+    },
+    "poly_0059": {
+        "text": "15",
+        "semantic_clasification": 1
+    },
+    "poly_0060": {
+        "text": "1",
+        "semantic_clasification": 1
+    },
+    "poly_0061": {
+        "text": "PASTA",
+        "semantic_clasification": 0
+    },
+    "poly_0062": {
+        "text": "CTA",
+        "semantic_clasification": 0
+    },
+    "poly_0063": {
+        "text": "SURT",
+        "semantic_clasification": 0
+    },
+    "poly_0064": {
+        "text": "C25",
+        "semantic_clasification": -2
+    },
+    "poly_0065": {
+        "text": "135.00",
+        "semantic_clasification": 2
+    },
+    "poly_0066": {
+        "text": "135.00",
+        "semantic_clasification": 2
+    },
+    "poly_0067": {
+        "text": "12",
+        "semantic_clasification": 1
+    },
+    "poly_0068": {
+        "text": "2",
+        "semantic_clasification": 1
+    },
+    "poly_0069": {
+        "text": "FOLDER",
+        "semantic_clasification": 0
+    },
+    "poly_0070": {
+        "text": "CTA",
+        "semantic_clasification": 0
+    },
+    "poly_0071": {
+        "text": "CR",
+        "semantic_clasification": 0
+    },
+    "poly_0072": {
+        "text": "C10",
+        "semantic_clasification": -2
+    },
+    "poly_0073": {
+        "text": "22.50",
+        "semantic_clasification": 2
+    },
+    "poly_0074": {
+        "text": "45.00",
+        "semantic_clasification": 2
+    },
+    "poly_0075": {
+        "text": "5",
+        "semantic_clasification": 1
+    },
+    "poly_0076": {
+        "text": "1",
+        "semantic_clasification": 1
+    },
+    "poly_0077": {
+        "text": "SOBRE",
+        "semantic_clasification": 0
+    },
+    "poly_0078": {
+        "text": "CROND",
+        "semantic_clasification": 0
+    },
+    "poly_0079": {
+        "text": "CTA",
+        "semantic_clasification": 0
+    },
+    "poly_0080": {
+        "text": "C10",
+        "semantic_clasification": -2
+    },
+    "poly_0081": {
+        "text": "49.80",
+        "semantic_clasification": 2
+    },
+    "poly_0082": {
+        "text": "49.80",
+        "semantic_clasification": 2
+    },
+    "poly_0083": {
+        "text": "7",
+        "semantic_clasification": 1
+    },
+    "poly_0084": {
+        "text": "2",
+        "semantic_clasification": 1
+    },
+    "poly_0085": {
+        "text": "CREPE",
+        "semantic_clasification": 0
+    },
+    "poly_0086": {
+        "text": "NGO",
+        "semantic_clasification": 0
+    },
+    "poly_0087": {
+        "text": "C10",
+        "semantic_clasification": -2
+    },
+    "poly_0088": {
+        "text": "48.00",
+        "semantic_clasification": 2
+    },
+    "poly_0089": {
+        "text": "96.00",
+        "semantic_clasification": 2
+    },
+    "poly_0090": {
+        "text": "8",
+        "semantic_clasification": 1
+    },
+    "poly_0091": {
+        "text": "1",
+        "semantic_clasification": 1
+    },
+    "poly_0092": {
+        "text": "KM",
+        "semantic_clasification": -2
+    },
+    "poly_0093": {
+        "text": "MED",
+        "semantic_clasification": 0
+    },
+    "poly_0094": {
+        "text": "NG",
+        "semantic_clasification": 0
+    },
+    "poly_0095": {
+        "text": "C12",
+        "semantic_clasification": -2
+    },
+    "poly_0096": {
+        "text": "39.90",
+        "semantic_clasification": 2
+    },
+    "poly_0097": {
+        "text": "39.90",
+        "semantic_clasification": 2
+    },
+    "poly_0098": {
+        "text": "5",
+        "semantic_clasification": 1
+    },
+    "poly_0099": {
+        "text": "1",
+        "semantic_clasification": 1
+    },
+    "poly_0100": {
+        "text": "KM",
+        "semantic_clasification": -2
+    },
+    "poly_0101": {
+        "text": "FINO",
+        "semantic_clasification": 0
+    },
+    "poly_0102": {
+        "text": "NG",
+        "semantic_clasification": 0
+    },
+    "poly_0103": {
+        "text": "C12",
+        "semantic_clasification": -2
+    },
+    "poly_0104": {
+        "text": "42.30",
+        "semantic_clasification": 2
+    },
+    "poly_0105": {
+        "text": "42.30",
+        "semantic_clasification": 2
+    },
+    "poly_0106": {
+        "text": "6",
+        "semantic_clasification": 1
+    },
+    "poly_0107": {
+        "text": "3",
+        "semantic_clasification": 1
+    },
+    "poly_0108": {
+        "text": "CARTA",
+        "semantic_clasification": 0
+    },
+    "poly_0109": {
+        "text": "DIAM",
+        "semantic_clasification": 0
+    },
+    "poly_0110": {
+        "text": "CANARI0",
+        "semantic_clasification": 0
+    },
+    "poly_0111": {
+        "text": "C10",
+        "semantic_clasification": -2
+    },
+    "poly_0112": {
+        "text": "30.00",
+        "semantic_clasification": 2
+    },
+    "poly_0113": {
+        "text": "90.00",
+        "semantic_clasification": 2
+    },
+    "poly_0114": {
+        "text": "5",
+        "semantic_clasification": 1
+    },
+    "poly_0115": {
+        "text": "PLACA",
+        "semantic_clasification": 0
+    },
+    "poly_0116": {
+        "text": "UNIC",
+        "semantic_clasification": 0
+    },
+    "poly_0117": {
+        "text": "25X25X1",
+        "semantic_clasification": -2
+    },
+    "poly_0118": {
+        "text": "2.98",
+        "semantic_clasification": 2
+    },
+    "poly_0119": {
+        "text": "29.76",
+        "semantic_clasification": 2
+    },
+    "poly_0120": {
+        "text": "5",
+        "semantic_clasification": 1
+    },
+    "poly_0121": {
+        "text": "PAL0",
+        "semantic_clasification": 0
+    },
+    "poly_0122": {
+        "text": "RED",
+        "semantic_clasification": 0
+    },
+    "poly_0123": {
+        "text": "DELG",
+        "semantic_clasification": 0
+    },
+    "poly_0124": {
+        "text": "4X60",
+        "semantic_clasification": -2
+    },
+    "poly_0125": {
+        "text": "K",
+        "semantic_clasification": 0
+    },
+    "poly_0126": {
+        "text": "95",
+        "semantic_clasification": 1
+    },
+    "poly_0127": {
+        "text": "59.28",
+        "semantic_clasification": 2
+    },
+    "poly_0128": {
+        "text": "59.28",
+        "semantic_clasification": 2
+    },
+    "poly_0129": {
+        "text": "2",
+        "semantic_clasification": 1
+    },
+    "poly_0130": {
+        "text": "1",
+        "semantic_clasification": 1
+    },
+    "poly_0131": {
+        "text": "GLOBO",
+        "semantic_clasification": 0
+    },
+    "poly_0132": {
+        "text": "5",
+        "semantic_clasification": 1
+    },
+    "poly_0133": {
+        "text": "SURT",
+        "semantic_clasification": 0
+    },
+    "poly_0134": {
+        "text": "C100",
+        "semantic_clasification": -2
+    },
+    "poly_0135": {
+        "text": "34.93",
+        "semantic_clasification": 2
+    },
+    "poly_0136": {
+        "text": "34.93",
+        "semantic_clasification": 2
+    },
+    "poly_0137": {
+        "text": "50",
+        "semantic_clasification": 1
+    },
+    "poly_0138": {
+        "text": "2",
+        "semantic_clasification": 1
+    },
+    "poly_0139": {
+        "text": "CART",
+        "semantic_clasification": 0
+    },
+    "poly_0140": {
+        "text": "FLUORESC",
+        "semantic_clasification": 0
+    },
+    "poly_0141": {
+        "text": "AM",
+        "semantic_clasification": 0
+    },
+    "poly_0142": {
+        "text": "C10",
+        "semantic_clasification": -2
+    },
+    "poly_0143": {
+        "text": "49.10",
+        "semantic_clasification": 2
+    },
+    "poly_0144": {
+        "text": "98.20",
+        "semantic_clasification": 2
+    },
+    "poly_0145": {
+        "text": "8",
+        "semantic_clasification": 1
+    },
+    "poly_0146": {
+        "text": "1024.12",
+        "semantic_clasification": 2
+    },
+    "poly_0147": {
+        "text": "Total",
+        "semantic_clasification": 0
+    }
+}
