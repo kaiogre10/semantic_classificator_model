@@ -22,6 +22,7 @@ class TrainModel:
         
         rows: List[Dict[str, Any]] = []
         json_files = glob.glob(os.path.join(self.label_path, '*.json'))
+        logger.info(f"'{len(json_files)}' archivos para entrenamiento")
 
         for file_path in json_files:
             with open(file_path, 'r', encoding='utf-8') as f:

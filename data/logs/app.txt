@@ -25159,3 +25159,22 @@ generate_model.py:86 Modelo generado en: 0.5263857999962056s
 generate_model.py:95 Modelo 'CLASSIFICADOR' generado el 2025-10-29T19:41:57.489194 guardado en: C:\semantic_classificator_model\models\sc_model.pkl
 cache_service.py:81 Limpieza de cache completada en 0.007898600000771694
 main.py:42 Proceso terminado correctamente.
+cache_service.py:81 Limpieza de cache completada en 0.00784140000178013
+generate_model.py:22 Modelos iniciado en: '0.000002s'
+generate_model.py:86 Modelo generado en: 0.27631950000068173s
+generate_model.py:95 Modelo 'CLASSIFICADOR' generado el 2025-10-29T20:17:46.407107 guardado en: C:\semantic_classificator_model\models\sc_model.pkl
+cache_service.py:81 Limpieza de cache completada en 0.009754300001077354
+main.py:42 Proceso terminado correctamente.
+cache_service.py:81 Limpieza de cache completada en 0.007115900007192977
+generate_model.py:22 Modelos iniciado en: '0.000001s'
+generate_model.py:86 Modelo generado en: 0.6848922000062885s
+generate_model.py:95 Modelo 'CLASSIFICADOR' generado el 2025-10-30T00:37:35.774582 guardado en: C:\semantic_classificator_model\models\sc_model.pkl
+cache_service.py:81 Limpieza de cache completada en 0.01064389999373816
+main.py:42 Proceso terminado correctamente.
+cache_service.py:81 Limpieza de cache completada en 0.006648599999607541
+generate_model.py:22 Modelos iniciado en: '0.000001s'
+train_model.py:25 '13' archivos para entrenamiento
+generate_model.py:86 Modelo generado en: 0.42525309999473393s
+generate_model.py:95 Modelo 'CLASSIFICADOR' generado el 2025-10-30T00:38:54.672492 guardado en: C:\semantic_classificator_model\models\sc_model.pkl
+cache_service.py:81 Limpieza de cache completada en 0.010170499997911975
+main.py:42 Proceso terminado correctamente.

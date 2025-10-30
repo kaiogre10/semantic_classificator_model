@@ -4,9 +4,17 @@ params:
     num_class: 5
     metric: 'multi_logloss'
     boosting_type: 'gbdt'
-    num_leaves: 31
-    learning_rate: 0.05
-    feature_fraction: 0.9
+    num_leaves: 10          
+    learning_rate: 0.1      
+    feature_fraction: 0.8  
+    bagging_fraction: 0.8   # Nuevo parámetro
+    bagging_freq: 5         # Nuevo parámetro
+    min_data_in_leaf: 5     # Nuevo parámetro
+    min_gain_to_split: 0.1  # Nuevo parámetro
+    lambda_l1: 0.1          # Regularización L1
+    lambda_l2: 0.1          # Regularización L2
+    verbosity: -1           # Silenciar warnings
+    force_col_wise: true 
 
   encoders:
     char_num:
